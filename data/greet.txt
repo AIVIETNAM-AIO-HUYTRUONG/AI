@@ -1,0 +1,4 @@
+# Assume we have a file named 'greet.txt' with the following content:
+# Hello, Python learner!
+# Start file handling.
+# Enjoy reading files.
